@@ -1,0 +1,8 @@
+main: com.coe.coebuff.BuffMain
+author: Yan_ice
+usuage: /coe
+version: 1
+name: COEBuff
+softdepend: []
+commands:
+  coebuff:
